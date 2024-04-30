@@ -1,1 +1,5 @@
 first line from original repo
+<<<<<<< Updated upstream
+=======
+line added from featurex1
+>>>>>>> Stashed changes
